@@ -1,0 +1,14 @@
+body {
+    padding-top: 5px;
+}
+
+.pagina {
+    background-color: aliceblue;
+    color: black;
+    width: 792px;
+    margin: auto;
+}
+
+@page {
+    margin: 0;
+}
